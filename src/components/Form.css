@@ -1,0 +1,205 @@
+.form{
+    margin-top: 80px;
+    background-color: #ffffff;
+    color:black;
+    width:680px;
+    border-radius: 5px;
+
+}
+.component1{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 16px;
+}
+.sign{
+    margin-left: 14px;
+    text-align: center;
+    border-radius: 50%;
+    height:29px;
+    width:30px;
+    background-color: #0096FF;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+.component2{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 23px;
+    font-weight: 600;
+    padding-bottom: 15px;
+
+}
+.component3{
+    margin-top: 13px;
+    border: 2px solid #D9D9D9;
+    margin-left: 24px;
+    margin-right: 24px;
+    padding-left: 20px;
+    background-color: #E7E7E7;
+    padding-bottom: 14px;
+    border-radius: 6px;
+}
+.offer{
+    border:2px solid #f77171;
+    background-color:#f77171;
+    border-end-end-radius: 3px;
+    color:white;
+    margin-left: 60px;
+    padding: 1px 10px 1px 10px;
+}
+.text-feild{
+    display: flex;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+input[type=radio]{
+    height:2em;
+    width:2em;
+}
+.text-container{
+    display: flex;
+    justify-content: space-between;
+    color:#BEBEBE;
+}
+.left-text{
+    padding-left: 22px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.right-text{
+    margin-left: auto;
+    padding-left: 270px;
+}
+.month{
+    padding-left: 16px;
+}
+.rupee{
+    font-weight: 600;
+}
+
+input[type=radio]#yellow {
+    accent-color:grey;
+}
+.component4{
+    margin-top: 13px;
+    margin-left: 24px;
+    margin-right: 24px;
+    padding-left: 20px;
+    background-color: #a9fdc1;
+    padding-bottom: 16px;
+    border-radius: 6px;
+    color:black;
+    border: 2px solid #47BA68;
+    
+}
+
+.offer1{
+    color:#47BA68;
+    background-color: #47BA68;
+    border-end-end-radius: 3px;
+    color:white;
+    margin-left: 60px;
+    padding: 1px 10px 1px 10px;
+}
+.text-container1{
+    display: flex;
+    justify-content: space-between;
+    color:black;
+
+}
+.sub-container{
+    margin-top: 40px;
+    
+    border-top: 2px solid grey;
+    margin-left:20px;
+    margin-right: 20px;
+    
+}
+.sub-fee{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 15px;
+    padding-bottom: 10px;
+}
+.sub{
+    padding: 10px;
+}
+.fee{
+    padding: 10px;
+}
+.limited-offer{
+    border:2px solid red;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ffeeee;
+    font-weight: 600;
+    
+}
+.offering-wall{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.lim-off{
+    color:red; 
+}
+
+.validity{
+    margin-left: 10px;
+    color:red;
+}
+.total{
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 10px 10px 10px;
+    font-weight: 500;
+
+}
+.paynow{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.cancel{
+    border: 2px solid red;
+    width: 280px;
+    height:40px;
+    align-items: center;
+    text-align: center;
+    padding-top:20px;
+    text-transform: uppercase;
+    color:red;
+    border-radius: 5px;
+
+}
+.proceed{
+    border: 2px solid green;
+    width: 280px;
+    height:40px;
+    align-items: center;
+    text-align: center;
+    padding-top:20px;
+    text-transform: uppercase;
+    color:green ;
+    border-radius: 5px;
+}
+.logo{
+    margin-left: 30px;
+    padding-bottom: 50px;
+
+}
+.logo-img{
+    width:150px;
+    height:50px;
+}
+

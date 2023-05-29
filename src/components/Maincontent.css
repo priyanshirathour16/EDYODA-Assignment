@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Capriola&family=Coustard&family=Merienda:wght@800&family=Pacifico&family=Piazzolla:ital,wght@0,300;0,400;0,500;0,600;0,700;0,900;1,200;1,500;1,700;1,800;1,900&family=Quicksand:wght@500;600&family=Roboto:ital,wght@0,500;1,400;1,700&display=swap');
+
+.main-content{
+    margin-top: 50px;
+}
+.p1{
+    font-size: 56px;
+    Font-style: SemiBold;
+    Vertical-align: Center;
+    letter-spacing: 0.03em;
+}
+.p2{
+    font-size: 56px;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+
+}
+.span1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 64px;
+}
+.span2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 64px;
+    color:#0096FF;
+}
+.span-child{
+    text-decoration: line-through;
+    text-decoration-color: red;
+
+}
+.ele-1{
+    margin-top:20px;
+    display: flex;
+}
+.text{
+    margin-left: 5px;
+    padding-left: 80px;
+    padding-top: 25px;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+}
+.book{
+    width:100px;
+    height:90px;
+    color:white;
+}
+.div-span{
+    color:#0096FF;
+}

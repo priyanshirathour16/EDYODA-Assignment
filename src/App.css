@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-img{
+    height:1300px;
+    width:1920px;
+    position:relative;
+}
+.app{
+    position: relative;
+}
